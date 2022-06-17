@@ -5,6 +5,5 @@
   <ul>
   <li> Kata Bijak </li>
   <li> Bucin </li>
-  <li> Sad </li>
   </ul>
 </details>
